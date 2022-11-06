@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Omnics.NameParserFunctionApp", "Omnics.NameParserFunctionApp\Omnics.NameParserFunctionApp.csproj", "{0AC4B979-215F-4A61-81F5-84D37209DD63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web page", "Web page", "{5DBD8240-9ECE-4A76-9AD4-ED80289CD3F6}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameParserFunctionAppV2", "NameParserFunctionAppV2\NameParserFunctionAppV2.csproj", "{7F536A2B-DB9B-4261-AFDC-02C2840AF2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC4B979-215F-4A61-81F5-84D37209DD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC4B979-215F-4A61-81F5-84D37209DD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC4B979-215F-4A61-81F5-84D37209DD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC4B979-215F-4A61-81F5-84D37209DD63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F536A2B-DB9B-4261-AFDC-02C2840AF2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F536A2B-DB9B-4261-AFDC-02C2840AF2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F536A2B-DB9B-4261-AFDC-02C2840AF2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F536A2B-DB9B-4261-AFDC-02C2840AF2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668B99F3-6162-4BE1-A564-EFBDA4B1EEBE}
+	EndGlobalSection
+EndGlobal
